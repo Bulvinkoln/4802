@@ -1,10 +1,25 @@
-### Instruction
+### Instruction for 4802 by Bushaeva T
 
-1 Create file
+ 1. Creating of new file 
 
-2 git add.
+1.1 Create file
 
-3 commit It 
+2.1 git add.
 
-4 push It 
+3.1 commit It 
+
+4.1 push It 
+
+2. Cereating pull request
+
+2.1 Create Fork of Repo
+
+2.2 Clone our version of Repo
+
+2.3 Create new branch for changes. All changes wil  be saved in this branch
+
+2.4 Send our version to Github by Pull request
+
+2.5 Go to Github and check new pull request
+
 
