@@ -1,0 +1,10 @@
+### Instruction
+
+1 Create file
+
+2 git add.
+
+3 commit It 
+
+4 push It 
+
