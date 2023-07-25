@@ -11,3 +11,6 @@
 создали бранч
 там ваяли
 сделали pull request
+при первом подключении ветки пишем: 
+git push --set-upstream origin(подключение) branch_name (nuka_dukem)
+либо короче git push -u origin branch_name
